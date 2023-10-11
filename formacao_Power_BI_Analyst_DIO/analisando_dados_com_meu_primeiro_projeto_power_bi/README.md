@@ -1,0 +1,1 @@
+De acordo com o desafio proposto, realizei a construção da visualização da pagina 3 exibindo a soma do lucro por segmento e os dois mapas, sendo que o primeiro apresenta a soma das vendas e o segundo o lucro ambos por país.
