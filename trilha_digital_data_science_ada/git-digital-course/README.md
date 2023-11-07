@@ -1,5 +1,5 @@
 ## Testando atualização
 
-* testando novo envio
-
+* testando comando push
 * testando comando pull
+* testando comando fetch
