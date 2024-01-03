@@ -1,1 +1,1 @@
-
+Entrega do desafio de criar um star achema a partir de um modelo relacional com foco voltado para o professor. Disponibilizei nesse diretório o arquivo de referencia para realização do desafio e as minhas entregas (modelagem no workbench e arquivo em pdf). 
