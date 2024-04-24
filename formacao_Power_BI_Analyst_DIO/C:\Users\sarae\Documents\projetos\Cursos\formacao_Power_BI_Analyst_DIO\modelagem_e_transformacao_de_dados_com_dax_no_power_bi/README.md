@@ -1,2 +1,0 @@
-De acordo com o desafio proposto, partindo da sample Financials, estruturei os dados criando um Star Schema sendo que a tabela fato ficou apenas com as informações referente as vendas e informações que tinhamos repetição na tabela principal, viraram dimensões, ex: dimensão de produtos, dimensão de paises. Essa organização dos dados facilita na criação das visualizações.
-Também foi criada uma tabela de Calendário atraves da Dax Calendar para analises temporais.
