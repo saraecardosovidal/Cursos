@@ -1,1 +1,1 @@
-Aqui compartilho os visuais que irei desenvolver relacionados a Comunidade Data Driven.
+Aqui compartilharei os visuais desenvolvidos durante o meu aprendizado na Comunidade Data Driven.
