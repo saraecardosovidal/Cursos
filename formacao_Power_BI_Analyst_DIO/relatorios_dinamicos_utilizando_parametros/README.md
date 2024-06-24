@@ -1,1 +1,1 @@
-
+De acordo com o desafio proposto, alterei o visual construido na ultima entrega, adicionando parametros de campo na guia Sales e na Report possibilitando assim que o usuario tenha maior flexibidade de informação quando consumir o visual.
